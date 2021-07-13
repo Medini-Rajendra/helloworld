@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Website Development Project - 1st Phases
+Microverse First Project
 
-The goal of the project is to create a replica of a webpage given to us as assignment. 
+The goal of the project is to create a simple html style tage with h1 element. 
 
-![screenshot](./webpage1stphase.png)
+![screenshot](./First_project.png)
 
 ## Built With
 
@@ -14,10 +14,10 @@ The goal of the project is to create a replica of a webpage given to us as assig
 
 ## Live Demo
 
-[Live Demo Link](https://medini-rajendra.github.io/website_project_dev/)
+[Live Demo Link](https://medini-rajendra.github.io/helloworld/)
 
 ## Setup 
-- git clone https://github.com/Medini-Rajendra/website_project_dev.git
+- git clone https://github.com/Medini-Rajendra/helloworld.git
 - cd into the folder
 - git checkout recreate_webpage
 - open `index.html` with live server
