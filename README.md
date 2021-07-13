@@ -1,50 +1,33 @@
-Project Name
-One paragraph statement about the project.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-screenshot
+Website Development Project - 1st Phases
 
-Additional description about the project and its features.
+The goal of the project is to create a replica of a webpage given to us as assignment. 
 
-Built With
-Major languages
-Frameworks
-Technologies used
-Live Demo
-Live Demo Link
+![screenshot](./webpage1stphase.png)
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+## Built With
 
-To get a local copy up and running follow these simple example steps.
+- HTML, CSS
+- WebHint, StyleLint packages are used to check for linter errors
+- Visual Studio
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-?? Author1
+## Live Demo
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-?? Author2
+[Live Demo Link](https://medini-rajendra.github.io/website_project_dev/)
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-?? Contributing
-Contributions, issues, and feature requests are welcome!
+## Setup 
+- git clone https://github.com/Medini-Rajendra/website_project_dev.git
+- cd into the folder
+- git checkout recreate_webpage
+- open `index.html` with live server
 
-Feel free to check the issues page.
+## Authors
+Rajendra Medini
+- GitHub: [@Medini-Rajendra](https://github.com/Medini-Rajendra)
+- Twitter: [@invenire512](https://twitter.com/invenire512)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/medinichaitanya/)
 
-Show your support
-Give a ?? if you like this project!
+## 📝 License
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-?? License
-This project is MIT licensed.
+This project is [MIT](./MIT.md) licensed.
